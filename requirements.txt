@@ -7,3 +7,4 @@ opencv-python
 seaborn
 streamlit
 streamlit-option-menu
+lightgbm
