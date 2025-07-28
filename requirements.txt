@@ -8,3 +8,5 @@ seaborn
 streamlit
 streamlit-option-menu
 lightgbm
+xgboost
+plotly
